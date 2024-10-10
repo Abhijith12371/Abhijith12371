@@ -1,3 +1,4 @@
+<img src="github-header-image (2).png" alt="Coding"/>
 <h1 align="center">Hi 👋, I'm Abhijith</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
