@@ -2,7 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=I'm%20Abhijith,%20a%20Full-Stack%20Developer&descAlignY=70&descAlign=70"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Abhijith</h1>
+<!-- Typing Effect with Gradient Text -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhijith" alt="Typing SVG" />
+</p>
 <h3 align="center" style="color: #4A90E2;">A Passionate Full-Stack Developer from India</h3>
 
 <p align="center">
