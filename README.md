@@ -16,10 +16,12 @@
 
 ### 📊 Profile Views
 <p align="center">
+  <!-- Komarev Profile Views Badge -->
   <img src="https://komarev.com/ghpvc/?username=Abhijith12371&style=for-the-badge&color=4A90E2" alt="Profile Views" />
+  
+  <!-- Alternative Shields.io Profile Views Badge in case Komarev does not work -->
+  <!-- <img src="https://shields.io/badge/Profile%20Views-0000-blue?style=for-the-badge" alt="Profile Views" /> -->
 </p>
-
-
 ---
 
 ### 📈 GitHub Activity Graph
