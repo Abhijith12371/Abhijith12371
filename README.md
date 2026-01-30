@@ -70,9 +70,11 @@
 ### 📊 GitHub Stats
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhijith12371&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" style="border-radius: 10px; margin-bottom: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhijith12371&show_icons=true&theme=radical&cache_seconds=1800" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijith12371&theme=radical" alt="GitHub Streak" style="border-radius: 10px; margin-bottom: 10px;"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijith12371&theme=radical&cache_seconds=1800" />
+
 
   <a href="https://github.com/Abhijith12371">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Abhijith12371&langs_count=8&layout=compact&theme=material-palenight&hide_border=true" height="192px" alt="Top Languages" style="border-radius: 10px;"/>
