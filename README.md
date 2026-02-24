@@ -23,12 +23,21 @@
 
 ---
 
-### 📈 GitHub Activity Graph (Last 12 Months)
+### 📈 GitHub Contribution Graph — All Years
 
 <p align="center">
-  <a href="https://github.com/Abhijith12371">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijith12371&bg_color=0d1117&color=ffffff&line=4A90E2&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" style="border-radius: 10px; width: 100%; max-width: 800px;"/>
-  </a>
+  <b>2026</b><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijith12371&bg_color=0d1117&color=ffffff&line=4A90E2&point=ffffff&area=true&hide_border=true&from=2026-01-01&to=2026-12-31" alt="2026 Contribution Graph" style="border-radius: 10px; width: 100%; max-width: 800px;"/>
+</p>
+
+<p align="center">
+  <b>2025</b><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijith12371&bg_color=0d1117&color=ffffff&line=4A90E2&point=ffffff&area=true&hide_border=true&from=2025-01-01&to=2025-12-31" alt="2025 Contribution Graph" style="border-radius: 10px; width: 100%; max-width: 800px;"/>
+</p>
+
+<p align="center">
+  <b>2024</b><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijith12371&bg_color=0d1117&color=ffffff&line=4A90E2&point=ffffff&area=true&hide_border=true&from=2024-01-01&to=2024-12-31" alt="2024 Contribution Graph" style="border-radius: 10px; width: 100%; max-width: 800px;"/>
 </p>
 
 ---
